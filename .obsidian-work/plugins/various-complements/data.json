@@ -1,0 +1,251 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "月影别墅ios测试支持。100%": {
+      "月影别墅ios测试支持。100%": {
+        "currentFile": {
+          "count": 16,
+          "lastUpdated": 1686045198690
+        }
+      }
+    },
+    "加密通信，服务端可以通过颁发密钥，客户端则不行。客户端无法保证本身安全，密钥可能会丢失。而服务端与服务端之间则不会。": {
+      "加密通信，服务端可以通过颁发密钥，客户端则不行。客户端无法保证本身安全，密钥可能会丢失。而服务端与服务端之间则不会。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683284817972
+        }
+      }
+    },
+    "月影别墅安卓小程序该隐生日需求对接。100%": {
+      "月影别墅安卓小程序该隐生日需求对接。100%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683794363657
+        }
+      }
+    },
+    "参加业务实践": {
+      "参加业务实践": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683803496162
+        }
+      }
+    },
+    "CRLF和LF是文本文件中常见的两种行结束符。": {
+      "CRLF和LF是文本文件中常见的两种行结束符。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684120760301
+        }
+      }
+    },
+    "拿破仑记事板对接平台认证服务。": {
+      "拿破仑记事板对接平台认证服务。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1684389647596
+        }
+      }
+    },
+    "服务器3、4月份费用核算。": {
+      "服务器3、4月份费用核算。": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684479918423
+        }
+      }
+    },
+    "月影别墅帷幕私语配置。": {
+      "月影别墅帷幕私语配置。": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1684476080870
+        }
+      }
+    },
+    "sql": {
+      "sql": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1684406724037
+        }
+      }
+    },
+    "2021年3y": {
+      "2021年3y": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685089086314
+        }
+      }
+    },
+    "月影别墅安卓小程序帷幕私语配置。": {
+      "月影别墅安卓小程序帷幕私语配置。": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1686798134028
+        }
+      }
+    },
+    "服务器续费项检查。100%": {
+      "服务器续费项检查。100%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685513357352
+        }
+      }
+    },
+    "GitHub Action": {
+      "GitHub Action": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1685518742542
+        }
+      }
+    },
+    "Action同步记录生成热力图，并持续更新": {
+      "Action同步记录生成热力图，并持续更新": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685518069440
+        }
+      }
+    },
+    "action": {
+      "action": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1685518809321
+        }
+      }
+    },
+    "记一次线上异常": {
+      "记一次线上异常": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685587058990
+        }
+      }
+    },
+    "增加连接池": {
+      "增加连接池": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685589325965
+        }
+      }
+    },
+    "Action": {
+      "Action": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685687748870
+        }
+      }
+    },
+    "增量的触发：": {
+      "增量的触发：": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685688105308
+        }
+      }
+    },
+    "从官方文档看到的信息，我这里有ID字段，应该执行Update才对，怎么会执行insert呢？还a": {
+      "从官方文档看到的信息，我这里有ID字段，应该执行Update才对，怎么会执行insert呢？还a": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685780857000
+        }
+      }
+    },
+    "Create": {
+      "Create": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685781735227
+        }
+      }
+    },
+    "微信敏感词服务修改配置规则，添加多分支流水线构建。": {
+      "微信敏感词服务修改配置规则，添加多分支流水线构建。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1685785106891
+        }
+      }
+    },
+    "HEALTH_RECORD_TYPES": {
+      "HEALTH_RECORD_TYPES": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1686118369941
+        }
+      }
+    },
+    "Apple": {
+      "Apple": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686218447975
+        }
+      }
+    },
+    "【完成的中间成果】项目计划书项目计划书、范围说明书、风险登记册、质量评估、试运营报告": {
+      "【完成的中间成果】项目计划书项目计划书、范围说明书、风险登记册、质量评估、试运营报告": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1686895913317
+        }
+      }
+    }
+  }
+}

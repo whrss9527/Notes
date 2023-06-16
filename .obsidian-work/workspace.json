@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "9002d7eee705effd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c990e36648adf900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d59d5715d2d682dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a3694f2b244cacf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb02f4485fbd6ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19d4ccb15485ff1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75a8005f2323543c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd472982b505910d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "fb09ce269389c4f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb1b51a4822e319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06004fb0c8be99b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识点.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98fbe975d031f219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识点.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4dc9e7d8fe4ffcea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0388fb00e803387c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识点.md"
+              }
+            }
+          },
+          {
+            "id": "b447bdee601240d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "da54cbfa1b157f2e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "11b1a5d8faad3af9",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d59d5715d2d682dd",
+  "lastOpenFiles": [
+    "PMP/知识点.md",
+    "知识点.md",
+    "PMP",
+    "未命名 13.md",
+    "工作/日报周报工作计划.md",
+    "blog/使用GitHub Action 同步运动数据并生成热力图.md",
+    "工作/服务器费用.md",
+    "未命名 10.md",
+    "工作/系统设计实践指南.md",
+    "工作/聊天记录存储实践.md",
+    "工作/服务器预案.md",
+    "未命名 12.md",
+    "未命名 11.md",
+    "未命名 9.md",
+    "未命名 8.md",
+    "未命名 3.md",
+    "blog/mysql 1093.md",
+    "未命名 7.md",
+    "未命名 1.md",
+    "未命名 6.md",
+    "未命名 5.md",
+    "未命名 4.md",
+    "未命名 2.md",
+    "工作/Gorm Save更新踩坑记录.md",
+    "工作/一次线上异常的追踪与处理.md",
+    "工作/GO单元测试.md",
+    "未命名.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "软考/论文"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "月影别墅ios": {
+      "月影别墅ios": {
+        "currentFile": {
+          "count": 12,
+          "lastUpdated": 1675327950895
+        }
+      }
+    },
+    "月影别墅ios联调，修改bug。100%": {
+      "月影别墅ios联调，修改bug。100%": {
+        "currentFile": {
+          "count": 15,
+          "lastUpdated": 1676874867685
+        }
+      }
+    },
+    "服务器续费清单整理。100%": {
+      "服务器续费清单整理。100%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675217611398
+        }
+      }
+    },
+    "月影别墅大富翁活动开发。100%": {
+      "月影别墅大富翁活动开发。100%": {
+        "currentFile": {
+          "count": 4,
+          "lastUpdated": 1676430863259
+        }
+      }
+    },
+    "VT-x“": {
+      "VT-x“": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676273340858
+        }
+      }
+    },
+    "browser": {
+      "browser": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676344114957
+        }
+      }
+    },
+    "创建bucket，设置bucket": {
+      "创建bucket，设置bucket": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1676344204728
+        }
+      }
+    },
+    "客服支持，电商问题解决。": {
+      "客服支持，电商问题解决。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676430912403
+        }
+      }
+    },
+    "shell": {
+      "shell": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676450455641
+        }
+      }
+    },
+    "config": {
+      "config": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676450468057
+        }
+      }
+    },
+    "2022-11-16": {
+      "2022-11-16": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676527078616
+        }
+      }
+    },
+    "月影别墅帷幕私语配置。100%": {
+      "月影别墅帷幕私语配置。100%": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677063774326
+        }
+      }
+    },
+    "2022-11-17": {
+      "2022-11-17": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676544454335
+        }
+      }
+    },
+    "月影别墅小冰存储分表。50%": {
+      "月影别墅小冰存储分表。50%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1676961599942
+        }
+      }
+    },
+    "redis“读未提交”": {
+      "redis“读未提交”": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1677050654948
+        }
+      }
+    },
+    "事务的开启，根据等级不同，会对数据进行不同范围的上锁。": {
+      "事务的开启，根据等级不同，会对数据进行不同范围的上锁。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677051709856
+        }
+      }
+    },
+    "业务逻辑分离不错乱，上层交给下层方法统一处理的业务，上层业务不要再另外处理下层的业务。": {
+      "业务逻辑分离不错乱，上层交给下层方法统一处理的业务，上层业务不要再另外处理下层的业务。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677051731609
+        }
+      }
+    },
+    "一个事务要做到覆盖，比如一个物品的购买和多个物品的购买，最后只进行一次账户扣减操作，只分为余额充足和余额不足两种情况。": {
+      "一个事务要做到覆盖，比如一个物品的购买和多个物品的购买，最后只进行一次账户扣减操作，只分为余额充足和余额不足两种情况。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677051752531
+        }
+      }
+    },
+    "如果需要对redis中设置了过期时间的数据进行修改，要考虑到修改途中数据过期的情况。这时候可以给key带上一些标识，比如每天领取次数限制的数据，设置key时带上日期，避免因为临界值时间出现的数据错乱。": {
+      "如果需要对redis中设置了过期时间的数据进行修改，要考虑到修改途中数据过期的情况。这时候可以给key带上一些标识，比如每天领取次数限制的数据，设置key时带上日期，避免因为临界值时间出现的数据错乱。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677051761171
+        }
+      }
+    },
+    "积分服务统计功能设计。】": {
+      "积分服务统计功能设计。】": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677138078637
+        }
+      }
+    },
+    "这样3个角色，每个玩家最多存在900条数据。": {
+      "这样3个角色，每个玩家最多存在900条数据。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677465988794
+        }
+      }
+    },
+    "月影别墅积分": {
+      "月影别墅积分": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677485351935
+        }
+      }
+    }
+  }
+}

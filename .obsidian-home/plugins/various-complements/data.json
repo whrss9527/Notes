@@ -1,0 +1,355 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "月影别墅ios联调，修改bug。100%": {
+      "月影别墅ios联调，修改bug。100%": {
+        "currentFile": {
+          "count": 22,
+          "lastUpdated": 1680074540184
+        }
+      }
+    },
+    "月影别墅帷幕私语配置。100%": {
+      "月影别墅帷幕私语配置。100%": {
+        "currentFile": {
+          "count": 5,
+          "lastUpdated": 1680001598953
+        }
+      }
+    },
+    "这样3个角色，每个玩家最多存在900条数据。": {
+      "这样3个角色，每个玩家最多存在900条数据。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677465988794
+        }
+      }
+    },
+    "月影别墅积分": {
+      "月影别墅积分": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677485351935
+        }
+      }
+    },
+    "-------------------------------------------------------": {
+      "-------------------------------------------------------": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677566591607
+        }
+      }
+    },
+    "16775690230123": {
+      "16775690230123": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677569368635
+        }
+      }
+    },
+    "bing申请的事情，于是我也看了下我的邮箱，果然阳光普照，我也有了试用资格。": {
+      "bing申请的事情，于是我也看了下我的邮箱，果然阳光普照，我也有了试用资格。": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1677722025452
+        }
+      }
+    },
+    "2023-03-04": {
+      "2023-03-04": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677806975130
+        }
+      }
+    },
+    "我不知道自己目前的学习是否有意义，我的证书在以后是否还有价值，本能的危机意识让我越来越恍惚。很多东西在此刻，失去了意义。": {
+      "我不知道自己目前的学习是否有意义，我的证书在以后是否还有价值，本能的危机意识让我越来越恍惚。很多东西在此刻，失去了意义。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1677813565090
+        }
+      }
+    },
+    "Gpt-3": {
+      "Gpt-3": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678271525388
+        }
+      }
+    },
+    "客户端jenkins问题解决。100%": {
+      "客户端jenkins问题解决。100%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678344875997
+        }
+      }
+    },
+    "ServerAliveInterval指定服务器发送保持连接的数据包的时间，ServerAliveCountMax指定尝试与服务器保持连接的最大次数。": {
+      "ServerAliveInterval指定服务器发送保持连接的数据包的时间，ServerAliveCountMax指定尝试与服务器保持连接的最大次数。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678348787455
+        }
+      }
+    },
+    "修改留存为新增留存。": {
+      "修改留存为新增留存。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678415426503
+        }
+      }
+    },
+    "成就奖励领取": {
+      "成就奖励领取": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678691893436
+        }
+      }
+    },
+    "k8s版本升级。": {
+      "k8s版本升级。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1678693013245
+        }
+      }
+    },
+    "2023-01-17": {
+      "2023-01-17": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679034325618
+        }
+      }
+    },
+    "propCode": {
+      "propCode": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679103486496
+        }
+      }
+    },
+    "propName": {
+      "propName": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679103493095
+        }
+      }
+    },
+    "count": {
+      "count": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679103499046
+        }
+      }
+    },
+    "月影别墅IOS配置调整。40%": {
+      "月影别墅IOS配置调整。40%": {
+        "currentFile": {
+          "count": 6,
+          "lastUpdated": 1679971316084
+        }
+      }
+    },
+    "之前刷推看到了不少人发软路由，最近又看到a姐发了一句：全推入手软路由了": {
+      "之前刷推看到了不少人发软路由，最近又看到a姐发了一句：全推入手软路由了": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679362091555
+        }
+      }
+    },
+    "2接口固态硬盘时，提示了这个问题，固态硬盘需要选择nvme接口协议的）": {
+      "2接口固态硬盘时，提示了这个问题，固态硬盘需要选择nvme接口协议的）": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679364241120
+        }
+      }
+    },
+    "选择安装位置后，开始安装，几秒后会提示你拔掉U盘，这时候就会自动重启使用安装在磁盘的系统。": {
+      "选择安装位置后，开始安装，几秒后会提示你拔掉U盘，这时候就会自动重启使用安装在磁盘的系统。": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679364389743
+        }
+      }
+    },
+    "password": {
+      "password": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679364622244
+        }
+      }
+    },
+    "进入快速启动。一切自动执行到终端提示完成，回车，提示出OpenWrt图标。这时候输入quickstart，1": {
+      "进入快速启动。一切自动执行到终端提示完成，回车，提示出OpenWrt图标。这时候输入quickstart，1": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679365921163
+        }
+      }
+    },
+    "clash 设置国内国外自动分流访问": {
+      "clash 设置国内国外自动分流访问": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1679454497289
+        }
+      }
+    },
+    "2023-03-23": {
+      "2023-03-23": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679556360899
+        }
+      }
+    },
+    "月影别墅版本升级。100%": {
+      "月影别墅版本升级。100%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679624679398
+        }
+      }
+    },
+    "2023-03-27": {
+      "2023-03-27": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1679882993823
+        }
+      }
+    },
+    "jenkins服务器docker镜像清理。100%": {
+      "jenkins服务器docker镜像清理。100%": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680161090477
+        }
+      }
+    },
+    "我突然想到，我应该也可以把我的游泳": {
+      "我突然想到，我应该也可以把我的游泳": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680245173671
+        }
+      }
+    },
+    "GitHub Action": {
+      "GitHub Action": {
+        "internalLink": {
+          "count": 2,
+          "lastUpdated": 1680250764857
+        }
+      }
+    },
+    "action": {
+      "action": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680250174400
+        }
+      }
+    },
+    "settings": {
+      "settings": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680250484614
+        }
+      }
+    },
+    "token": {
+      "token": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680250523508
+        }
+      }
+    },
+    "Token": {
+      "Token": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1680250715257
+        }
+      }
+    },
+    "Action": {
+      "Action": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680251132124
+        }
+      }
+    },
+    "月影别墅IOS数据库表调整，优化，客户端最低版本限制对接开发。100%": {
+      "月影别墅IOS数据库表调整，优化，客户端最低版本限制对接开发。100%": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1680342572478
+        }
+      }
+    }
+  }
+}

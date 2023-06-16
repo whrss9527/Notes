@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "9002d7eee705effd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d54f1e74a4528189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab65a2f44312e41",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a3694f2b244cacf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb02f4485fbd6ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19d4ccb15485ff1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75a8005f2323543c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd472982b505910d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb09ce269389c4f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb1b51a4822e319",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f06004fb0c8be99b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98fbe975d031f219",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4dc9e7d8fe4ffcea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0388fb00e803387c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b447bdee601240d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "da54cbfa1b157f2e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "4ab65a2f44312e41",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "工作/日报周报工作计划.md",
+    "工作/服务器预案.md",
+    "工作/系统设计实践指南.md",
+    "blog/OpenGPT的11种高效用法.md",
+    "blog/在google设置静态页面 CDN加速.md",
+    "日常/今天，淘宝修改了昵称推送.md",
+    "日常/redis“读未提交”.md",
+    "工作/聊天记录存储实践.md",
+    "blog/信息源.md"
+  ]
+}

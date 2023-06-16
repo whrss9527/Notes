@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "63c3a025e5adfc99",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1c2b5f00bea95fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dec59d42b7d441f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caf9d9731c11d2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软考/论文/软件需求获取.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4716986abaf324d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "软考/论文/软件需求管理及其应用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f9228ddc9d90bb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作/日报周报工作计划.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966318b98c149dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83e8186ca59eeb55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e81b00c77d7cc16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8df537e0e606362a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1327bdf69650043d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90ca8c76a2639ce9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "baafb33da43220e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3914184e91dac19a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8300f80ce0acf17f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddeb9778c4f020e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e1ce22cba3f1d0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99493a8690675e9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a69686509989f088",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "314d090438d0ceaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed64c3ea82266ed4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:管理工作区布局": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7dec59d42b7d441f",
+  "lastOpenFiles": [
+    "未命名 11.md",
+    "未命名 12.md",
+    "未命名 7.md",
+    "未命名 8.md",
+    "未命名 10.md",
+    "未命名 2.md",
+    "blog/使用GitHub Action 同步运动数据并生成热力图.md",
+    "blog/mysql 1093.md",
+    "工作/Gorm Save更新踩坑记录.md",
+    "未命名 6.md",
+    "未命名 9.md",
+    "知识点.md",
+    "软考/论文/面向服务的企业应用集成技术及其应用.md",
+    "软考/论文/论系统自动化测试及其应用.md",
+    "软考/论文/论软件项目管理技术及其应用.md",
+    "软考/论文/论软件开发模型及应用.md",
+    "Gorm Save更新踩坑记录.md",
+    "工作/一次线上异常的追踪与处理.md",
+    "未命名 3.md",
+    "软考/sum.md",
+    "sum.md",
+    "软考/论文/模板.md",
+    "软考/论文/软件需求管理及其应用.md",
+    "软考/论文/1.md",
+    "软考/论文/软件需求获取.md",
+    "翻译版本.md",
+    "未命名.canvas",
+    "软考/论文",
+    "每天",
+    "Pasted image 20230405142326.png",
+    "Pasted image 20230405143944.png",
+    "50871680675303_.pic_hd.jpg",
+    "Pasted image 20230405143026.png",
+    "Pasted image 20230405145624.png",
+    "软考",
+    "日常",
+    "工作",
+    "whrss",
+    "wechat-read-sync",
+    "blog/maze",
+    "blog",
+    "Excalidraw"
+  ]
+}
