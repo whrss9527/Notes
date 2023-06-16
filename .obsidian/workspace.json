@@ -11,8 +11,12 @@
             "id": "4ab65a2f44312e41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PMP/day01.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PMP/day01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PMP/day01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PMP/day01.md"
+              }
             }
           },
           {
@@ -162,6 +170,8 @@
   },
   "active": "4ab65a2f44312e41",
   "lastOpenFiles": [
+    "PMP/day01.md",
+    "PMP",
     "conflict-files-obsidian-git.md",
     "工作/日报周报工作计划.md",
     "工作/服务器预案.md",
