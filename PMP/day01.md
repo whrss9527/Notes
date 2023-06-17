@@ -21,3 +21,9 @@
 
 ----
 
+五大过程组，十大知识领域
+![image.png](https://raw.githubusercontent.com/whrsss/pic-sync/master/img/20230617110306.png)
+
+
+
+![](https://raw.githubusercontent.com/whrsss/pic-sync/master/img/20230617110018.png)
