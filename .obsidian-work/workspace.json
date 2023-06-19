@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eaefe8d4a470d791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PMP/净值分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PMP/价值交付系统与项目结构类型.md",
+                "file": "PMP/净值分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMP/价值交付系统与项目结构类型.md",
+                "file": "PMP/净值分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMP/价值交付系统与项目结构类型.md"
+                "file": "PMP/净值分析.md"
               }
             }
           },
@@ -201,10 +213,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82dc02183a9738fb",
+  "active": "eaefe8d4a470d791",
   "lastOpenFiles": [
-    "未命名.md",
     "PMP/价值交付系统与项目结构类型.md",
+    "PMP/净值分析.md",
+    "未命名.md",
     "PMP/day01.md",
     "PMP/知识点.md",
     "知识点.md",
@@ -229,7 +242,6 @@
     "未命名 5.md",
     "未命名 4.md",
     "未命名 2.md",
-    "工作/Gorm Save更新踩坑记录.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "软考/论文"
