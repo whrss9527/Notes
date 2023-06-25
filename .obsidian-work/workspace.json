@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c94f5b6ce962901",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,6 +121,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2f17f5953a3b797",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -225,7 +243,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9aed6f0114231815",
+  "active": "3c94f5b6ce962901",
   "lastOpenFiles": [
     "PMP/价值交付系统与项目结构类型.md",
     "PMP/组织结构.md",
