@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMP/未命名.md",
+                "file": "PMP/风险控制.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PMP/未命名.md",
+                "file": "PMP/风险控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMP/未命名.md",
+                "file": "PMP/风险控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMP/未命名.md"
+                "file": "PMP/风险控制.md"
               }
             }
           },
@@ -210,9 +210,10 @@
   },
   "active": "d59d5715d2d682dd",
   "lastOpenFiles": [
+    "PMP/未命名.md",
+    "PMP/风险控制.md",
     "PMP/组织结构.md",
     "PMP/价值交付系统与项目结构类型.md",
-    "PMP/未命名.md",
     "PMP/净值分析.md",
     "PMP/day01.md",
     "未命名.md",
@@ -236,7 +237,6 @@
     "未命名 7.md",
     "未命名 1.md",
     "未命名 6.md",
-    "未命名 5.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "软考/论文"
