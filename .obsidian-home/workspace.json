@@ -4,83 +4,104 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c2b5f00bea95fa",
-        "type": "tabs",
+        "id": "c6455dec86291bc4",
+        "type": "split",
         "children": [
           {
-            "id": "7dec59d42b7d441f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PMP/团队建设.md",
-                "mode": "source",
-                "source": false
+            "id": "4210c853e258cd29",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3914184e91dac19a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
               }
-            }
+            ]
           },
           {
-            "id": "c345a526b22aa1d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PMP/规划资源管理.md",
-                "mode": "source",
-                "source": false
+            "id": "e1c2b5f00bea95fa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7dec59d42b7d441f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PMP/团队建设.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c345a526b22aa1d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PMP/规划资源管理.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "caf9d9731c11d2e6",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f4716986abaf324d",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3f9228ddc9d90bb3",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "966318b98c149dd4",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "83e8186ca59eeb55",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6e81b00c77d7cc16",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "caf9d9731c11d2e6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "f4716986abaf324d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3f9228ddc9d90bb3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "966318b98c149dd4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "83e8186ca59eeb55",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6e81b00c77d7cc16",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
+            ],
+            "currentTab": 1
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -116,14 +137,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "3914184e91dac19a",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
