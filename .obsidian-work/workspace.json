@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PMP/风险控制.md",
+                "file": "PMP/人-干系人与沟通.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PMP/风险控制.md",
+                "file": "PMP/价值交付系统与项目结构类型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMP/风险控制.md",
+                "file": "PMP/价值交付系统与项目结构类型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMP/风险控制.md"
+                "file": "PMP/价值交付系统与项目结构类型.md"
               }
             }
           },
@@ -208,12 +209,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d59d5715d2d682dd",
+  "active": "eaefe8d4a470d791",
   "lastOpenFiles": [
+    "PMP/人-干系人与沟通.md",
+    "PMP/风险控制.md",
     "PMP/净值分析.md",
     "PMP/团队建设.md",
     "PMP/规划资源管理.md",
-    "PMP/风险控制.md",
     "PMP/未命名.md",
     "PMP/组织结构.md",
     "PMP/价值交付系统与项目结构类型.md",
@@ -236,7 +238,6 @@
     "未命名 8.md",
     "未命名 3.md",
     "blog/mysql 1093.md",
-    "未命名 7.md",
     "未命名 1.canvas",
     "未命名.canvas",
     "软考/论文"
