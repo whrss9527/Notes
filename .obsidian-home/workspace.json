@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a0a413233a32ff86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "452d80fec616302c",
             "type": "leaf",
             "state": {
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PMP/风险控制.md",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PMP/风险控制.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PMP/风险控制.md"
+                "file": "未命名 1.md"
               }
             }
           }
@@ -158,15 +170,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "452d80fec616302c",
+  "active": "a0a413233a32ff86",
   "lastOpenFiles": [
+    "PMP/风险控制.md",
+    "未命名 1.md",
     "PMP/人-干系人与沟通.md",
     "PMP/团队建设.md",
     "PMP/规划资源管理.md",
     "PMP/未命名.md",
     "PMP/价值交付系统与项目结构类型.md",
     "PMP/净值分析.md",
-    "PMP/风险控制.md",
     "未命名 11.md",
     "未命名 12.md",
     "未命名 7.md",
@@ -185,7 +198,6 @@
     "软考/论文/论软件开发模型及应用.md",
     "Gorm Save更新踩坑记录.md",
     "工作/一次线上异常的追踪与处理.md",
-    "未命名 3.md",
     "未命名.canvas",
     "软考/论文",
     "每天",
