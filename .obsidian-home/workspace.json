@@ -84,9 +84,19 @@
                 "currentVersion": "1.4.12"
               }
             }
+          },
+          {
+            "id": "fabf3c4476940f80",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -224,7 +234,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7b93f2bdbb58ee7a",
+  "active": "fabf3c4476940f80",
   "lastOpenFiles": [
     "架构/软件开发模型.md",
     "架构",
