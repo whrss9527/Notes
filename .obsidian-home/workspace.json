@@ -79,9 +79,11 @@
             "id": "98cc2f19b86a5b85",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -152,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 3.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 3.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 3.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -228,12 +230,12 @@
   },
   "active": "98cc2f19b86a5b85",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "未命名 2.md",
+    "未命名 3.md",
     "架构/软件开发模型.md",
     "架构",
-    "未命名 3.md",
-    "未命名 2.md",
     "PMP/净值分析.md",
-    "未命名 1.md",
     "PMP/风险控制.md",
     "PMP/人-干系人与沟通.md",
     "PMP/团队建设.md",
