@@ -86,9 +86,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45e1c1b9d8d5b151",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "98cc2f19b86a5b85",
+  "active": "45e1c1b9d8d5b151",
   "lastOpenFiles": [
     "未命名 1.md",
     "未命名 2.md",
